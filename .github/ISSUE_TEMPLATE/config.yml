@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: View the live prototype
+    url: https://vinay-712.github.io/roamly-ai/
+    about: Check the current experience before opening an issue.
