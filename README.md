@@ -6,10 +6,6 @@ Roamly AI is a responsive travel companion prototype for destination discovery, 
 
 Explore · Ask Roamly AI · Destination details · My trip · Saved places · Profile
 
-## Figma design
-
-[View the original Roamly AI design in Figma](https://www.figma.com/design/ruaZIc1SlDFhp59bqFWbuT/Roamly-AI-%E2%80%94-Travel-Companion--Copy-?node-id=0-1&t=alQdbsgYUTTzaehK-1)
-
 ## Project details
 
 - **Role:** UI/UX Designer
