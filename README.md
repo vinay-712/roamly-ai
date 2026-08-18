@@ -13,6 +13,10 @@ Explore · Ask Roamly AI · Destination details · My trip · Saved places · Pr
 - **Implementation:** Semantic HTML, responsive CSS, and vanilla JavaScript
 - **Features:** Connected navigation, prompt presets, saved-place actions, and a mobile-first layout
 
+## Live prototype
+
+[View the interactive Roamly AI prototype](https://vinay-712.github.io/roamly-ai/)
+
 ## Run locally
 
 Open `index.html`, or run `python -m http.server 4173` and visit `http://localhost:4173`.
