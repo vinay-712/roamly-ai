@@ -39,6 +39,8 @@ This project demonstrates product thinking, UI/UX design, responsive frontend im
 
 ## Product journey
 
+<img src="assets/product-flow.svg" alt="Roamly AI flow from Explore to AI planning and itinerary review" width="100%">
+
 | Step | Screen | User outcome |
 | --- | --- | --- |
 | 01 | Explore | Find inspiration or begin planning |
