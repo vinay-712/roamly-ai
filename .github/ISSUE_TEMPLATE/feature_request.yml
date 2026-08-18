@@ -1,0 +1,30 @@
+name: Feature request
+description: Suggest an improvement to the Roamly AI experience.
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: User need
+      description: What traveller problem would this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Proposed experience
+      description: Describe how you imagine it working.
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Product area
+      options: [Explore, AI planner, Destination details, Trip itinerary, Saved places, Profile, Accessibility, Other]
+    validations:
+      required: true
+  - type: textarea
+    id: success
+    attributes:
+      label: What would success look like?
