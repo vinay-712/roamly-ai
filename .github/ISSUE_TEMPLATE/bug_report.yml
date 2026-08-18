@@ -1,0 +1,40 @@
+name: Bug report
+description: Report a reproducible problem in the Roamly AI prototype.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping improve Roamly AI.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the problem and what you expected.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. Open…
+2. Select…
+3. Observe…"
+    validations:
+      required: true
+  - type: dropdown
+    id: device
+    attributes:
+      label: Device
+      options: [Mobile, Tablet, Desktop]
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and version
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Add screenshots or other helpful details.
